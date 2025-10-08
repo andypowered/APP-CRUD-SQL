@@ -18,7 +18,7 @@ Aplicația web permite administrarea unei baze de date cu elevi, oferind următo
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Server:** XAMPP/WAMP/LAMP
 
-
+![sitescreenshot](https://github.com/andypowered/APP-CRUD-SQL/blob/main/index2.png)
 ![sitescreenshot](https://github.com/andypowered/APP-CRUD-SQL/blob/main/index.png)
 
 
